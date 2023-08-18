@@ -1,1 +1,1 @@
-# drawing-tab-using-js
+# drawing-tab-using-javascript
